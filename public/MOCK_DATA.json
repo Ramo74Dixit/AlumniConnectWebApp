@@ -1,0 +1,65 @@
+[
+  {
+    " company_name": "Zooxo",
+    " job_role": "Pharmacist",
+    " salary": "$4741.79",
+    " location": "Karlstad",
+    " experience": 5
+  },
+  {
+    " company_name": "Mita",
+    " job_role": "Design Engineer",
+    " salary": "$539.37",
+    " location": "Passagem",
+    " experience": 16
+  },
+  {
+    " company_name": "Innotype",
+    " job_role": "Health Coach III",
+    " salary": "$63920.66",
+    " location": "Dadaha",
+    " experience": 18
+  },
+  {
+    " company_name": "Wikivu",
+    " job_role": "Clinical Specialist",
+    " salary": "$31190.81",
+    " location": "Loei",
+    " experience": 17
+  },
+  {
+    " company_name": "Camido",
+    " job_role": "Web Developer I",
+    " salary": "$15734.26",
+    " location": "Kilcullen",
+    " experience": 17
+  },
+  {
+    " company_name": "Riffpath",
+    " job_role": "Payment Adjustment Coordinator",
+    " salary": "$55655.93",
+    " location": "Chotcza",
+    " experience": 13
+  },
+  {
+    " company_name": "Devshare",
+    " job_role": "Recruiter",
+    " salary": "$86728.41",
+    " location": "Chýnov",
+    " experience": 12
+  },
+  {
+    " company_name": "Avaveo",
+    " job_role": "Nurse",
+    " salary": "$84239.39",
+    " location": "Borås",
+    " experience": 24
+  },
+  {
+    " company_name": "Gigashots",
+    " job_role": "Programmer Analyst III",
+    " salary": "$88703.99",
+    " location": "Dolna Banya",
+    " experience": 6
+  }
+]
