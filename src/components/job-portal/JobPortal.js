@@ -35,13 +35,11 @@ const JobPortal = () => {
 
       {activeSection === "register" && (
         <div className="mt-5 p-8 bg-white shadow-md border border-[#8c8c8c] rounded-lg w-[90%] ml-14">
-          <p className="text-gray-600 text-lg mb-6">
-            Register a new job opportunity
-          </p>
-          <form className="space-y-6">
-            <div className="flex flex-col md:flex-row md:space-x-6">
-              <div className="w-full md:w-1/2">
-                <label className="block font-semibold text-lg text-gray-700 mb-2">
+      <p className="text-gray-600 text-lg mb-6">Register a new job opportunity</p>
+      <form className="space-y-6" onSubmit={handleSubmit}>
+        <div className="flex flex-col md:flex-row md:space-x-6">
+          <div className="w-full md:w-1/2">
+            <label className="block font-semibold text-lg text-gray-700 mb-2">
                   Job Role
                 </label>
                 <input
